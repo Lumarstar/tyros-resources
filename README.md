@@ -13,9 +13,8 @@ What we've covered so far:
 * [**Lesson 2**](https://github.com/qitianshi/tyros-resources/tree/main/Lesson%202): Operators
 * [**Lesson 3**](https://github.com/qitianshi/tyros-resources/tree/main/Lesson%203): If/else statements
 * [**Lesson 4**](https://github.com/qitianshi/tyros-resources/tree/main/Lesson%204): `while` loops
-
-In future lessons, we'll cover:
-* **Lesson 5**: `for` loops
+* [**Lesson 5**](https://github.com/qitianshi/tyros-resources/tree/main/Lesson%205): `for` loops
+* [**Lesson X**](https://github.com/qitianshi/tyros-resources/tree/main/Lesson%20X): Where to from here?
 
 ## Updates as of 9 Feb 2023
 This repository has been archived as the project is completed.
