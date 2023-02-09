@@ -17,6 +17,9 @@ What we've covered so far:
 In future lessons, we'll cover:
 * **Lesson 5**: `for` loops
 
+## Updates as of 9 Feb 2023
+This repository has been archived as the project is completed.
+
 ## Legal
 © 2022 Qi Tianshi and Tyros members.
 
